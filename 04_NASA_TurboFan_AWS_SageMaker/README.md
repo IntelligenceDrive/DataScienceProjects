@@ -1,6 +1,6 @@
 # PredictiveMaintenance Project 
 NASA Turbofan Engine Fault Dataset @ AWS# Predictive Maintenance using Machine Learning on Sagemaker
-# 3 Day AWS workshop and 3 day ML project class work at Houston, June 2019.
+### 3 Day AWS workshop and 3 day ML project class work at Houston, June 2019.
 
 ### Introduction
 
